@@ -1,0 +1,8 @@
+teste\util\jpa\Transactional.class
+teste\util\cdi\CDIServiceLocator.class
+teste\view\ManterAlunoBean.class
+teste\util\jpa\EntityManagerProducer.class
+teste\model\Aluno.class
+teste\model\dao\AlunoDao.class
+teste\service\ManterAlunoService.class
+teste\util\jpa\TransactionInterceptor.class
